@@ -58,9 +58,7 @@
 
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Matt0820&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matt0820&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF" />
 </div>
 
 ---
