@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=150&section=header&text=Mateus%20Oliveira&fontSize=38&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=150&section=header&animation=fadeIn"/>
 
 <div align="center">
 
