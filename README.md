@@ -1,10 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=header"/>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=150&section=header&text=Mateus%20Oliveira&fontSize=38&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn"/>
 
 <div align="center">
 
-# Hello world, I'm Mateus 👾
+# Hello, World! I'm Mateus 👾
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=9D4EDD&size=22&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Junior+Front-end+Developer+in+Progress;Full-Stack+Developer+in+the+Making;Hardware,+Linux,+Web+and+Game+Dev;My+GitHub+is+my+tech+laboratory" />
+### Software Engineering Student | Developer | Tech Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=C77DFF&size=20&center=true&vCenter=true&width=750&lines=Exploring+the+world+of+software+engineering;Building%2C+breaking+and+learning;From+Web+Development+to+Game+Dev;Linux%2C+Hardware%2C+Code+and+Creativity;Turning+curiosity+into+projects"/>
 
 </div>
 
@@ -12,87 +15,100 @@
 
 ## 🧠 About Me
 
-<table>
-  <tr>
-    <td width="190">
-      <img src="https://github.com/Matt0820.png" width="175" style="border-radius: 50%;" />
-    </td>
-    <td>
+<img align="right" src="https://github.com/Matt0820.png" width="150" />
 
-- 💻 Aspiring Full-Stack Developer...
-- 🖌️ Junior Front-end Developer
-- ✨ Web Designer
-- 🎮 Exploring Game Development
-- 🎓 Software Engineering Student
-- 🛠️ Curious about hardware, Linux, and customization
-- 🧪 This profile is my playground for learning, experimenting, and building projects
+I'm a Software Engineering student with a passion for technology and a curiosity that goes beyond writing code.
 
-  </td>
-  </tr>
-</table>
+I enjoy understanding how things work, experimenting with different technologies, and turning ideas into practical projects.
+
+My interests range from software development and web design to hardware, Linux, and game development.
+
+**I see every project as an opportunity to learn something new.**
+
+<br clear="right"/>
 
 ---
 
-## ⚡ Currently Working With
+## 🔬 My Tech Lab
 
-- Web Development
-- Academic and Personal Projects
-- Linux, Terminal, and Customization
-- Hardware, Maintenance, and Troubleshooting
-- Game Development and Visual Creation
-- Repository Organization and Documentation
+Things I'm currently exploring, building, and experimenting with:
+
+| Area | Focus |
+|:---|:---|
+| 💻 Software Development | Full-Stack development and programming |
+| 🌐 Web | Front-end, back-end and web design |
+| 🐧 Linux | Systems, terminal and customization |
+| 🖥️ Hardware | Maintenance, troubleshooting and diagnostics |
+| 🎮 Game Development | Game mechanics and visual creation |
+| 🧪 Personal Projects | Experiments, ideas and practical solutions |
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,spring,nextjs,react,nodejs,html,css,javascript,linux,git,docker,blender,unity,gamemakerstudio" />
-  </a>
+### 💻 Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,javascript,html,css,react,nextjs,nodejs"/>
+</p>
+
+### ⚙️ Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode"/>
+</p>
+
+### 🎨 Creative & Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,unity,gamemakerstudio"/>
 </p>
 
 ---
 
-## 📊 GitHub in Motion
-
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matt0820&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Matt0820&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt0820&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=FFFFFF"/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matt0820&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF"/>
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Find Me Around the Internet
 
 <div align="center">
 
 <a href="https://github.com/Matt0820">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/mateus-oliveira-17566429b">
   <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://instagram.com/kkmatt_hh">
   <img src="https://img.shields.io/badge/Instagram-C77DFF?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 <a href="mailto:dev.mateus.oliveira.vieira">
   <img src="https://img.shields.io/badge/Email-240046?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://discord.com/users/1248699316760215636">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Matt0820&color=7B2CBF&style=for-the-badge&label=PROFILE+VISITS"/>
+
 </div>
+
+---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Matt0820&color=7B2CBF&style=for-the-badge&label=PROFILE+VISITS" />
-
-</div>
+### "Curiosity is the engine behind every great project."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
+
+</div>
