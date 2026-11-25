@@ -2,15 +2,15 @@
 
 <div align="center">
 
-# Olá mundo, eu sou o Mateus 👾
+# Hello world, I'm Mateus 👾
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=9D4EDD&size=22&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Front-end+Jr.+em+evolução;Full-Stack+em+construção;Hardware,+Linux,+Web+e+Game-dev;Meu+GitHub+é+meu+laboratório+tecnológico" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=9D4EDD&size=22&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Junior+Front-end+Developer+in+Progress;Full-Stack+Developer+in+the+Making;Hardware,+Linux,+Web+and+Game+Dev;My+GitHub+is+my+tech+laboratory" />
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
 <table>
   <tr>
@@ -19,13 +19,13 @@
     </td>
     <td>
 
-- 💻 Desenvolvedor Full-Stack em andamento...
-- 🖌️ Front-end Jr.
+- 💻 Aspiring Full-Stack Developer...
+- 🖌️ Junior Front-end Developer
 - ✨ Web Designer
-- 🎮 Explorando Game-dev
-- 🎓 Estudante de Engenharia de Software
-- 🛠️ Curioso por hardware, Linux e customização
-- 🧪 Esse perfil é minha base de estudos, testes e projetos
+- 🎮 Exploring Game Development
+- 🎓 Software Engineering Student
+- 🛠️ Curious about hardware, Linux, and customization
+- 🧪 This profile is my playground for learning, experimenting, and building projects
 
   </td>
   </tr>
@@ -33,18 +33,18 @@
 
 ---
 
-## ⚡ Atualmente mexendo com
+## ⚡ Currently Working With
 
-- Desenvolvimento Web
-- Projetos acadêmicos e pessoais
-- Linux, terminal e customização
-- Hardware, manutenção e diagnóstico
-- Game-dev e criação visual
-- Organização de repositórios e documentação
+- Web Development
+- Academic and Personal Projects
+- Linux, Terminal, and Customization
+- Hardware, Maintenance, and Troubleshooting
+- Game Development and Visual Creation
+- Repository Organization and Documentation
 
 ---
 
-## 🛠️ Minha stack
+## 🛠️ My Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 GitHub em movimento
+## 📊 GitHub in Motion
 
 
 <div align="center">
@@ -63,7 +63,7 @@
 
 ---
 
-## 🌐 Conexões
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -91,7 +91,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Matt0820&color=7B2CBF&style=for-the-badge&label=VISITAS+NO+PERFIL" />
+<img src="https://komarev.com/ghpvc/?username=Matt0820&color=7B2CBF&style=for-the-badge&label=PROFILE+VISITS" />
 
 </div>
 
